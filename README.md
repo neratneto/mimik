@@ -1,22 +1,11 @@
-# mimik-mimica
+# mimik-mimica [![pipeline status](https://gitlab.com/neratneto/mimik/badges/master/pipeline.svg)](https://gitlab.com/neratneto/mimik/commits/master)
 
 > Mimik, o jogo de mimica 
 
-## Build Setup
+## Website
+https://mimik-mimica.firebaseapp.com
 
-``` bash
-# install dependencies
-$ npm run install
 
-# serve with hot reload at localhost:3000
-$ npm run dev
 
-# build for production and launch server
-$ npm run build
-$ npm run start
 
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+This PWA was created using: [Nuxt.js](https://nuxtjs.org), [Vuetify.js](https://vuetifyjs.com/) and [Firebase](https://firebase.google.com/).
